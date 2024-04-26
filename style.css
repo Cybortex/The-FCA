@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+
+button{
+    background-color: blue;
+    height: 50px;
+    color: aliceblue;
+    border: #ffffff;
+    border-radius: 10px;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+}
+
+.container {
+    color: #000000;
+    max-width: 800px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  
